@@ -3,11 +3,15 @@
 ProtView is an easy-to-use graphical sequence visualization, analysis, and data preparation tool that can compare .fasta formatted datasets using calculated biochemical features without relying on sequence homology based approaches. Graphs are made using Plotly.
 
 
+
+
 I included a requirements.txt file to easily manage dependancies
 
 pip install -U pip
 
 pip install -r requiremets.txt
+
+
 
 
 Setup instructions to make ProtView easy to launch for mac OS X users:
