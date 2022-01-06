@@ -4,6 +4,7 @@ ProtView is an easy-to-use graphical sequence visualization, analysis, and data 
 
 
 I included a requirements.txt file to easily manage dependancies
+
 pip install -U pip
 pip install -r requiremets.txt
 
