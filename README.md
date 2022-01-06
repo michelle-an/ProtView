@@ -43,6 +43,13 @@ And statistical plots are generated to easily identify correlations in the data
 <br><hr>
 ### Instructions to make ProtView easy to launch for mac OS X users:
 <ol>
+	<li>Install from Github</li>
+		<br>
+		&emsp;
+		<code>
+			git clone https://github.com/michelle-an/ProtView.git
+		</code>
+		<br><br>
  	<li>Make sure you have python3 installed on your computer</li>
 		<br>
 		&emsp;
