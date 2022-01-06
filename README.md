@@ -16,10 +16,12 @@ Setup instructions to make ProtView easy to launch for mac OS X users:
 2) Update the first line of the ProtView.command file after the #! to match the location of your python instalation.
 
 4) Install python dependencies
+
 	pip install -U pip
 	pip install -r requirements.txt
 	
 4) Update user permissions
+
 	chmod u+x ProtView.command
 	
 5) You can now double click on the ProtView.command file to run without needing to use Terminal.
